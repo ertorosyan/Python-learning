@@ -1,0 +1,72 @@
+# while,,for
+
+
+#     Xndir:1 
+#  Распечатайте второй элемент в fruits списке.  ["apple", "banana", "cherry"]
+#
+# fruits = ["apple", "banana", "cherry"]
+# print(fruits[1])
+#
+#
+#
+#
+#    Xndir:2
+#Переберите буквы в слове «банан»:
+#
+#for x in "banana":
+#	print(x)
+#
+#
+#
+#
+#     Xndir:3
+# Выйдите из цикла, когда x "банан":  ["apple", "banana", "cherry"]
+#
+# fruits = ["apple", "banana", "cherry"]
+# for x in fruits:
+# 	print(x)
+# 	if x == "banana":
+# 		break
+#
+#
+#
+#    Xndir:4
+# Не печатайте банан:  ["apple", "banana", "cherry"]
+#
+# fruits = ["apple", "banana", "cherry"]
+# for x in fruits:
+# 	if x == "banana":
+# 		continue
+# 	print(x)
+#
+#
+#
+#    Xndir:5
+#
+# Увеличьте последовательность с 3  : (1 to 30 )
+# for x in  range (1,30,3):
+# 	print(x)
+#
+#
+#
+#    Xndir:6
+#
+# Выведите все числа от 0 до 5 и напечатайте сообщение("The End"), когда цикл закончится:
+
+# for x in range(6):
+# 	print(x)
+# else:
+# 	print("The End")
+#
+#
+#
+#    Xndir:7
+#
+# Напечатайте каждое прилагательное для каждого фрукта:
+
+# color = ["red", "green", "yellow"]
+# fruits = ["apple", "banana", "cherry"]
+# for x in color:
+# 	for y in fruits:
+# 		print(x,y)
+
