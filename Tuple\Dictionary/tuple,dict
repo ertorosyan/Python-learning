@@ -1,0 +1,60 @@
+# # 1 stexcel datark t
+# # 2 stexcel tp 3 twerow u tpel 1-in tary
+# # 3 grel program verapoxel tp stringi 
+# # 4 gtnel tpum krknwox tarery
+# # 5 gtnel tp-i tareri qanaky
+# # 6 gtnel tp-i tari index-y
+# # 7 stugel a tary gtnwume tb-um te che
+# # 8  hawasarcnel tpn arjeqi
+
+
+
+# #1 
+# # a_tuple = ()
+# # print(type(a_tuple))
+# #2
+# # atuple = (("1","2","3"))
+# # print(atuple[0])
+# #3
+# # atuple = ("1","2","3")
+# # print("-".join(atuple))
+# #4
+# # atuple = ("1","2","3","1")
+# # l=[]
+# # for i in atuple:
+# # 	if atuple.count(i)> 1:
+# # 		if i not in l:
+# # 			l.append(i)
+# # print(l)
+# #5
+# # atuple = ("1","2","3","1")
+# # print(len(atuple))
+# #6
+# # atuple = (("1","2","3"))
+# # print(atuple.index("2"))
+# #7
+# # atuple = (("1","2","3"))
+# # print("a" in atuple)
+# #8
+# # a,f,d = range(1,4)
+# # print(a,f,d)
+
+
+
+
+# #4 5 10 14 15
+
+# d = {"name": "vzgo","guyn": "sew","tariq": "17"}
+# # a = {"name": 10,"guyn": 5,"tariq": 5}
+
+# #1
+# # print("name" in ddfdf
+# #2 ancnel ciklow 
+# # for key,value in d.items():
+# # 	print(key,"-",value)
+# #3 gumarel bolor arjeqnery
+# # print(sum(a.values()))
+# # 4.DDAasesavorle yst banalineri (func)
+# # print(sorted(d))
+# # 5  max ev min arjeqner(max(), min() func)
+# # print("max =",max(d.values())	,"   min =",min(d.values()))
